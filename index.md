@@ -5,5 +5,6 @@
   https://github.com/QingFenGG/qingfengg.github.com
 </p>
 <p>
-  Email address: qingfeng@udel.edu
+  Email address: qingfeng@udel.edu<br>
+  Name: Yuxing Wei
 </p>
