@@ -17,6 +17,10 @@
 <p>2.I add "TODO" part to my portfolio.</p>
 <p>3.I make each paragraph a separate line.</p>
 
+<hl><i>Removed things</i></hl>
+
+<hl><i>Changed things</i></hl>
+
 <p><strong>TODO</strong>
 </p>
  
