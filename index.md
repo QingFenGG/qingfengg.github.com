@@ -15,4 +15,9 @@
 <hl><i>Added things</i></hl>
 <p>1.I added "Changelogs" part to my portfolio.</p>
 <p>2.I add "TODO" part to my portfolio.</p>
+<p>3.I make each paragraph a separate line.</p>
+
+<p><strong>TODO</strong>
+</p>
+ 
 
