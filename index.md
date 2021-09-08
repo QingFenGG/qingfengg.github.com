@@ -9,7 +9,7 @@
   Name: Yuxing Wei
 </p>
 
-<hl>Added things<strong></i></hl>
+<hl><i>Added things</i></hl>
 <p>1.I added "Changelogs" part to my portfolio.</p>
 <p>2.I add "TODO" part to my portfolio.</p>
 
