@@ -8,13 +8,8 @@
   Email address: qingfeng@udel.edu<br>
   Name: Yuxing Wei
 </p>
-<p> <html>
-          <head>
-            <title>Changelog</title>
-  </head>
-  <body>
-    <hl>Added things</hl>
-    <p>1.I added "Changelogs" part to my portfolio.</p>
-    <p>2.I add "TODO" part to my portfolio.</p>
-  </body>
-  </html>
+
+<hl>Added things</hl></i></b>
+<p>1.I added "Changelogs" part to my portfolio.</p>
+<p>2.I add "TODO" part to my portfolio.</p>
+
