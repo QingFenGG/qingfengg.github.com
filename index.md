@@ -9,7 +9,8 @@
   Name: Yuxing Wei
 </p>
 
-<p><strong><a href="http://qingfengg.github.com/changelog.html</p>Change Log</strong>
+<p>
+  <a href="http://qingfengg.github.com/changelog.html" > <strong>Change Log</strong> </a>
 </p>
 
 <p><strong>TODO</strong>
