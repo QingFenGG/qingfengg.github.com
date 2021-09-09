@@ -9,7 +9,7 @@
   Name: Yuxing Wei
 </p>
 
-<p><strong>Change Log</strong>
+<p><strong><a href="http://www.w3schools.com/tags/tag_a.asp">Here</a> on the w3schools website.</p>Change Log</strong>
 </p>
 
 <hl><i>Added things</i></hl>
