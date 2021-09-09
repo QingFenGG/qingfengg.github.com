@@ -2,7 +2,7 @@
   CISC275 - Yuxing Wei
   Student ID: 702519749
 <p>
-  https://github.com/QingFenGG/qingfengg.github.com
+  <a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
 </p>
 <p>
   Email address: qingfeng@udel.edu<br>
