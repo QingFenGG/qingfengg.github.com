@@ -9,17 +9,8 @@
   Name: Yuxing Wei
 </p>
 
-<p><strong><a href="http://www.w3schools.com/tags/tag_a.asp">Here</a> on the w3schools website.</p>Change Log</strong>
+<p><strong><a href="http://qingfengg.github.com/changelog.html</p>Change Log</strong>
 </p>
-
-<hl><i>Added things</i></hl>
-<p>1.I added "Changelogs" part to my portfolio.</p>
-<p>2.I add "TODO" part to my portfolio.</p>
-<p>3.I make each paragraph a separate line.</p>
-
-<hl><i>Removed things</i></hl>
-
-<hl><i>Changed things</i></hl>
 
 <p><strong>TODO</strong>
 </p>
