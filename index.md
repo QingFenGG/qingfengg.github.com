@@ -10,7 +10,7 @@
 </p>
 
 <p>
-  <a href="http://qingfengg.github.com/changelog.html" > <strong>Change Log</strong> </a>
+  <a href="https://qingfengg.github.io/changelog.html" > <strong>Change Log</strong> </a>
 </p>
 
 <p><strong>TODO</strong>
