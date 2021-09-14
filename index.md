@@ -1,27 +1,27 @@
 # qingfengg.github.com
+.BLUE {
+  color: blue;
+}
+.YELLOW{
+  color: yellow;
+}
 <html>
   <head>
-    <style>
-      hl{color: yellow;
-      font-size:15;
-      }</style>
-    <style>
-      bd{color:red;
-      font-size:12;}</style>
+    My porfolio  
   </head>
   <body>  
     <p> 
-      <hl>CISC275 - Yuxing Wei</hl>
+      CISC275 - <em class="BLUE">Yuxing Wei</em>
     </p>
     <p>
-      <hl>Student ID: 702519749</hl>
+      Student ID: <em class="YELLOW">702519749</em>
     </p>
-    <p><bd>
-      Email address: qingfeng@udel.edu<br>
-      Name: Yuxing Wei
-    </bd></p>
     <p>
-      <img src="central-repository-scaled.jpeg">
+      Email address: <em class="YELLOW">qingfeng@udel.edu</em><br>
+      Name: <em class="BLUE">Yuxing Wei</em>
+    </p>
+    <p>
+      <img src="central-repository-scaled.jpg">
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
     </p>
   <p>
