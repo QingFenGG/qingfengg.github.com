@@ -3,23 +3,28 @@
 <style>
 .BLUE {
   color: blue;
+  font-size:120%;
 }
 .YELLOW{
   color: yellow;
-}</style>
+  font-size:120%
+}
+.Title{
+  color:crimson;
+  font-size:200%}
+  </style>
   <head>
-    My porfolio  
+    <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
     <p> 
-      CISC275 - <em class="BLUE">Yuxing Wei</em>
+      Name - <em class="BLUE">Yuxing Wei</em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
     </p>
     <p>
-      Email address: <em class="YELLOW">qingfeng@udel.edu</em><br>
-      Name: <em class="BLUE">Yuxing Wei</em>
+      Email address: <em class="YELLOW">qingfeng@udel.edu</em>
     </p>
     <p>
       <img src="central-repository-scaled.jpg">
