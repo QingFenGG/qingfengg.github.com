@@ -1,4 +1,5 @@
 # qingfengg.github.com
+<html>
 <style>
 .BLUE {
   color: blue;
@@ -6,7 +7,6 @@
 .YELLOW{
   color: yellow;
 }</style>
-<html>
   <head>
     My porfolio  
   </head>
