@@ -21,7 +21,7 @@
       Name: Yuxing Wei
     </bd></p>
     <p>
-      <img src="central-repository-scaled.jpg">
+      <img src="central-repository-scaled.jpeg">
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
     </p>
   <p>
