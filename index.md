@@ -3,11 +3,11 @@
 <style>
 .BLUE {
   color: blue;
-  font-size:120%;
+  font-size:140%;
 }
 .YELLOW{
-  color: yellow;
-  font-size:120%
+  color: purple;
+  font-size:140%
 }
 .Title{
   color:crimson;
