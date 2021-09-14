@@ -12,10 +12,6 @@
 .Title{
   color:crimson;
   font-size:200%}
-.imghalf{
-  width:50%;
-  height:50%;
-}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
@@ -31,7 +27,7 @@
       Email address: <em class="YELLOW">qingfeng@udel.edu</em>
     </p>
     <p>
-      <em class="imghalf"><img src="central-repository-scaled.jpg"></em>
+      <img src="central-repository-scaled.jpg" width="70" height="70" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
     </p>
   <p>
