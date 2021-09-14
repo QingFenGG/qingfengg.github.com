@@ -16,14 +16,14 @@
     <p>
       <hl>Student ID: 702519749</hl>
     </p>
-    <p>
-      <a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
-    </p>
     <p><bd>
       Email address: qingfeng@udel.edu<br>
       Name: Yuxing Wei
     </bd></p>
-
+    <p>
+      <img src="central-repository-scaled.jpg">
+      <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
+    </p>
   <p>
       <a href="https://qingfengg.github.io/changelog.html" > <strong>Change Log</strong> </a>
   </p>
