@@ -1,7 +1,7 @@
 # qingfengg.github.com
 <html>
 <style>
-body{ background-image:url(https://github.com/QingFenGG/qingfengg.github.com/blob/main/pexx.jpg);}
+body{ background-image:https://github.com/QingFenGG/qingfengg.github.com/blob/main/pexx.jpg(pexx.jpg);}
 .BLUE {
   color: blue;
   font-size:140%;
