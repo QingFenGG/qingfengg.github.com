@@ -27,7 +27,7 @@
       Email address: <em class="YELLOW">qingfeng@udel.edu</em>
     </p>
     <p>
-      <img src="central-repository-scaled.jpg" width="70" height="70" >
+      <img src="central-repository-scaled.jpg" width="300" height="300" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
     </p>
   <p>
