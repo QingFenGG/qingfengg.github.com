@@ -43,8 +43,10 @@ body
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
   </body>
-</html>
 
-<script>
-  var surname = prompt("Greetings friend, may I enquire as to your surname?");
-</script>
+  <script>
+    var surname = prompt("Greetings friend, may I enquire as to your surname?");
+  </script>
+  <p>surname</p>
+
+</html>
