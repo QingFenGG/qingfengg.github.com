@@ -44,3 +44,7 @@ body
   </p>
   </body>
 </html>
+
+<script>
+  var surname = prompt("Greetings friend, may I enquire as to your surname?");
+</script>
