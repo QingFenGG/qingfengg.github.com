@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/qingfengg.github.com/static/css/main.a617e044.chunk.css",
+    "main.js": "/qingfengg.github.com/static/js/main.fc3a415a.chunk.js",
+    "main.js.map": "/qingfengg.github.com/static/js/main.fc3a415a.chunk.js.map",
+    "runtime-main.js": "/qingfengg.github.com/static/js/runtime-main.7c7d2530.js",
+    "runtime-main.js.map": "/qingfengg.github.com/static/js/runtime-main.7c7d2530.js.map",
+    "static/js/2.e01eb256.chunk.js": "/qingfengg.github.com/static/js/2.e01eb256.chunk.js",
+    "static/js/2.e01eb256.chunk.js.map": "/qingfengg.github.com/static/js/2.e01eb256.chunk.js.map",
+    "static/js/3.d2540457.chunk.js": "/qingfengg.github.com/static/js/3.d2540457.chunk.js",
+    "static/js/3.d2540457.chunk.js.map": "/qingfengg.github.com/static/js/3.d2540457.chunk.js.map",
+    "index.html": "/qingfengg.github.com/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/qingfengg.github.com/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e01eb256.chunk.js.LICENSE.txt": "/qingfengg.github.com/static/js/2.e01eb256.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/qingfengg.github.com/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7c7d2530.js",
+    "static/js/2.e01eb256.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fc3a415a.chunk.js"
+  ]
+}
