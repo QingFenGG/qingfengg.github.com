@@ -47,6 +47,5 @@ body
   <script>
     var surname = prompt("Greetings friend, may I enquire as to your surname?");
   </script>
-  <p>surname</p>
 
 </html>
