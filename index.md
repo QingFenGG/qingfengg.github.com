@@ -1,6 +1,8 @@
 # qingfengg.github.com
 <html>
 <style>
+a{color:blue;}
+a:hover{color:red;}
 body
   {
     background-image:url(pexx.jpg);}
