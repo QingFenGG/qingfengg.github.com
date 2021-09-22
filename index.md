@@ -15,6 +15,7 @@ body
 .Title{
   color:crimson;
   font-size:200%}
+.second{ position: relative; left: 30px}  
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
@@ -29,7 +30,7 @@ body
     <p>
       Email address: <em class="YELLOW">qingfeng@udel.edu</em>
     </p>
-    <p>
+    <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
     </p>
