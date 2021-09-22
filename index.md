@@ -16,7 +16,7 @@ body
   color:crimson;
   font-size:200%}
 .second{ position: relative; right: 420px}
-.third{position: relative; top:150}
+.third{position: relative; bottom:150}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
