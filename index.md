@@ -19,7 +19,7 @@ body
 .second{ position: relative; right: 420px; bottom:240px}
 .third{position: relative; bottom:190px; right:420px}
 .forth{position: relative; right:420px; bottom:140px}
-@keyframes rorating{
+@keyframes rotating{
   0% {transform:rotate(0deg);}
   100%{transform:rotate(360deg);}
 }
