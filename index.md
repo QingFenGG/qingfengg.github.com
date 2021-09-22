@@ -9,8 +9,6 @@ body
 .BLUE {
   color: blue;
   font-size:140%;}
-BLUE:hover{color:yellow;}
-BLUE.with-slow-transition{transition: 2s;}
 .YELLOW{
   color: purple;
   font-size:140%
@@ -21,6 +19,9 @@ BLUE.with-slow-transition{transition: 2s;}
 .second{ position: relative; right: 420px; bottom:240px}
 .third{position: relative; bottom:190px; right:420px}
 .forth{position: relative; right:420px; bottom:140px}
+div{background:lightgrey;}
+div:hover{background:red;}
+div.with-transition{transition:2s;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
