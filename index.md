@@ -20,8 +20,8 @@ body
 .third{position: relative; bottom:190px; right:420px}
 .forth{position: relative; right:420px; bottom:140px}
 @keyframes bouncing{
-  0% {bottom:0; box-shadow: 0 0 5px rgba(0,0,0,0.5);}
-  100%{bottom:50px;box-shadow:0 50px 50px rgba(0,0,0,0.1);}
+  0% {bottom:0; box-shadow: 0 0 5px rgba(100,100,100,0.5);}
+  100%{bottom:50px;box-shadow:0 50px 50px rgba(100,100,100,0.1);}
 }
 .YuxingWei{ animation: bouncing 0.5s cubic-bezier(0.1,0.25,0.1,1) 0s infinite alternate both;}
   </style>
