@@ -19,9 +19,11 @@ body
 .second{ position: relative; right: 420px; bottom:240px}
 .third{position: relative; bottom:190px; right:420px}
 .forth{position: relative; right:420px; bottom:140px}
-@keyframes spin{
-  from{transform:rotate(0deg;)}to{transform:rotate(360deg);}}
-.p{animation:rotating 4s linear infinite;}
+@keyframes scaling{
+  0%  {transform: scale(1);}
+  50% {transform: scale(2);}
+  100%{transform: scale(1);}}
+.p{animation:scaling 6s steps(1) 0s infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
