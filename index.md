@@ -23,7 +23,7 @@ body
   0% {bottom:0; box-shadow: 0 0 5px rgba(100,100,100,0.5);}
   100%{bottom:50px;box-shadow:0 50px 50px rgba(100,100,100,0.1);}
 }
-.YuxingWei{ animation: bouncing 0.5s cubic-bezier(0.1,0.25,0.1,1) 0s infinite alternate both;}
+.YuxingWei{ animation: bouncing 0.5s cubic-bezier(1,255,255,1) 0s infinite alternate both;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
