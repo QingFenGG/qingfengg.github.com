@@ -23,7 +23,7 @@ body
   0% {transform:rotate(0deg);}
   100%{transform:rotate(360deg);}
 }
-.YuxingWei{animation:rotating 4s linear 8s;}
+.YuxingWei{animation:rotating 4s linear infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
