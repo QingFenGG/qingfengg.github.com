@@ -27,9 +27,9 @@ div.with-transition{transition:2s;}
     <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
-    <p> 
+    <div> 
       Name - <em class="BLUE">Yuxing Wei</em>
-    </p>
+    </div>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
     </p>
