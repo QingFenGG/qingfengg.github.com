@@ -19,11 +19,11 @@ body
 .second{ position: relative; right: 420px; bottom:240px}
 .third{position: relative; bottom:190px; right:420px}
 .forth{position: relative; right:420px; bottom:140px}
-@keyframes bouncing{
-  0% {bottom:0; box-shadow: 0 0 5px rgba(100,100,100,0.5);}
-  100%{bottom:50px;box-shadow:0 50px 50px rgba(100,100,100,0.1);}
+@keyframes rorating{
+  0% {transform:rotate(0deg);}
+  100%{transform:rotate(360deg);}
 }
-.YuxingWei{ animation: bouncing 0.5s cubic-bezier(1,255,255,1) 0s infinite alternate both;}
+.YuxingWei{animation:rotating 4s linear 8s;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
