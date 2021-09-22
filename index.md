@@ -21,16 +21,15 @@ body
 .forth{position: relative; right:420px; bottom:140px}
 @keyframes rotating{
   0% {transform:rotate(0deg);}
-  100%{transform:rotate(360deg);}
-}
-.YuxingWei{animation:rotating 4s linear infinite;}
+  100%{transform:rotate(360deg);}}
+p{animation:rotating 4s linear infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE"><em class="YuxingWei">Yuxing Wei</em></em>
+      Name - <em class="BLUE"><em class="p">Yuxing Wei</em></em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
