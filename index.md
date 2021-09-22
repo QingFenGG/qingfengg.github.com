@@ -15,8 +15,8 @@ body
 .Title{
   color:crimson;
   font-size:200%}
-.second{ position: relative; right: 420px; bottom:300px}
-.third{position: relative; bottom:150px}
+.second{ position: relative; right: 420px; bottom:240px}
+.third{position: relative; bottom:150px; right:420px}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
