@@ -8,8 +8,9 @@ body
     background-image:url(pexx.jpg);}
 .BLUE {
   color: blue;
-  font-size:140%;
-}
+  font-size:140%;}
+BLUE:hover{color:yellow;}
+BLUE.with-slow-transition{transition: 2s;}
 .YELLOW{
   color: purple;
   font-size:140%
