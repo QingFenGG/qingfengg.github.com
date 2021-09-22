@@ -22,7 +22,7 @@ body
 @keyframes rotating{
   0% {transform:rotate(0deg);}
   100%{transform:rotate(360deg);}}
-p{animation:rotating 4s linear 2s;}
+.p{animation:rotating 4s linear infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
