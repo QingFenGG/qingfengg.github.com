@@ -15,7 +15,8 @@ body
 .Title{
   color:crimson;
   font-size:200%}
-.second{ position: relative; right: 420px}  
+.second{ position: relative; right: 420px}
+.third{position: relative; top:150}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
@@ -34,7 +35,7 @@ body
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
     </p>
-  <p>
+  <p class="third">
       <img src="change.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/changelog.html" > <strong>Change Log</strong> </a>
   </p>
