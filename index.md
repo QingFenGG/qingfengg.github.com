@@ -23,6 +23,7 @@ body
 .second{ position: relative; right: 420px; bottom:300px}
 .third{position: relative; bottom:250px; right:420px}
 .forth{position: relative; right:420px; bottom:200px}
+.Expe{color: black;font-size:130%}
   </style>
   <head>
       <em class="Title">My porfolio - CISC275</em>  
@@ -36,7 +37,7 @@ body
       <dt>Email address</dt> 
       <dd><em class="YELLOW">qingfeng@udel.edu</em></dd>
     </dl>
-    <p>Experience</p>
+    <p><em class="Expe">Experience</em></p>
     <ul>
       <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
       <li>Life experience</li>
