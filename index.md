@@ -23,7 +23,7 @@ body
   0%  {transform: scale(1);}
   50% {transform: scale(2);}
   100%{transform: scale(1);}}
-.p{animation:scaling 6s steps(1) 0s infinite;}
+p{animation:scaling 6s steps(1) 0s infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
