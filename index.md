@@ -26,7 +26,7 @@ body
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE">Me.name</em>
+      Name - Me.name
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
