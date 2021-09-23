@@ -1,5 +1,12 @@
 # qingfengg.github.com
 <html>
+<script>
+  var YuxingWei = {
+    name: "Yuxing Wei",
+    age: 21,
+    StudentID:"702519749"
+}
+</script>
 <style>
 a{color:blue;}
 a:hover{color:red;}
@@ -19,18 +26,13 @@ body
 .second{ position: relative; right: 420px; bottom:240px}
 .third{position: relative; bottom:190px; right:420px}
 .forth{position: relative; right:420px; bottom:140px}
-@keyframes scaling{
-  0%  {transform: scale(1);}
-  50% {transform: scale(2);}
-  100%{transform: scale(1);}}
- p{animation: scaling 10s steps(1) 0s infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE">Yuxing Wei</em>
+      Name - <em class="BLUE">YuxingWei.name</em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
