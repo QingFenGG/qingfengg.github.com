@@ -1,6 +1,6 @@
 # qingfengg.github.com
 <html>
-<script src="script.js">
+<script src="script.js"></script>
 <style>
 a{color:blue;}
 a:hover{color:red;}
@@ -26,7 +26,7 @@ body
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE">My.name</em>
+      Name - <em class="BLUE"><script>My.name</script></em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
@@ -52,6 +52,4 @@ body
   <script>
     var surname = prompt("Greetings friend, just enter everything you want to enter my portfolio!");
   </script>
-
-</script>
 </html>
