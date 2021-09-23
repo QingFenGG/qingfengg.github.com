@@ -35,6 +35,12 @@ body
       <dd><em class="YELLOW">702519749</em></dd>
       <dt>Email address</dt> 
       <dd><em class="YELLOW">qingfeng@udel.edu</em></dd>
+    </dl>
+    <p>Experience</p>
+    <ul>
+      <li>Study experience</li>
+      <li>Life experience</li>
+    </ul>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
@@ -48,10 +54,5 @@ body
       <img src="future.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
-    <p><strong>Experience</strong></p>
-    <ul>
-      <li>Study experience</li>
-      <li>Life experience</li>
-    </ul>
   </body>
 </html>
