@@ -1,6 +1,6 @@
 # qingfengg.github.com
 <html>
-<script src="script.js"></script>
+<script src="script.js">
 <style>
 a{color:blue;}
 a:hover{color:red;}
@@ -53,4 +53,5 @@ body
     var surname = prompt("Greetings friend, just enter everything you want to enter my portfolio!");
   </script>
 
+</script>
 </html>
