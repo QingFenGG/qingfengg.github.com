@@ -53,6 +53,7 @@ body
     <p><strong>Experience</strong></p>
       <ul>
         <li>Study experience</li>
-        <li>Life experience</lo>
+        <li>Life experience</li>
+      </ul>
   </body>
 </html>
