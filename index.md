@@ -1,12 +1,6 @@
 # qingfengg.github.com
 <html>
-<script>
-  var YuxingWei = {
-    name: "Yuxing Wei",
-    age: 21,
-    StudentID:"702519749"
-}
-</script>
+<script src="script.js"></script>
 <style>
 a{color:blue;}
 a:hover{color:red;}
@@ -32,7 +26,7 @@ body
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE">YuxingWei.name</em>
+      Name - <em class="BLUE">My.name</em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
