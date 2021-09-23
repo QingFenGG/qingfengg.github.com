@@ -1,6 +1,5 @@
 # qingfengg.github.com
 <html>
-<script src="script.js"></script>
 <style>
 a{color:blue;}
 a:hover{color:red;}
@@ -48,8 +47,4 @@ body
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
   </body>
-
-  <script>
-    var surname = prompt("Greetings friend, just enter everything you want to enter my portfolio!");
-  </script>
 </html>
