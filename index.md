@@ -38,7 +38,7 @@ body
     </dl>
     <p>Experience</p>
     <ul>
-      <li>Study experience</li>
+      <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
       <li>Life experience</li>
     </ul>
     <p class="second">
