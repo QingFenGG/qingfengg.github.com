@@ -23,14 +23,14 @@ body
   0%  {transform: scale(1);}
   50% {transform: scale(2);}
   100%{transform: scale(1);}}
-p{animation:scaling 6s steps(1) 0s infinite;}
+ p{animation: scaling 10s steps(1) 0s infinite;}
   </style>
   <head>
     <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE"><em class="p">Yuxing Wei</em></em>
+      Name - <em class="BLUE">Yuxing Wei</em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
