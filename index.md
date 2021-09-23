@@ -20,9 +20,9 @@ body
 .Title{
   color:crimson;
   font-size:200%}
-.second{ position: relative; right: 420px; bottom:450px}
-.third{position: relative; bottom:400px; right:420px}
-.forth{position: relative; right:420px; bottom:350px}
+.second{ position: relative; right: 420px; bottom:500px}
+.third{position: relative; bottom:450px; right:420px}
+.forth{position: relative; right:420px; bottom:400px}
 .Expe{color: black;font-size:130%}
   </style>
   <head>
@@ -47,8 +47,6 @@ body
     Click me to display Date and Time.</button>
     <p id="demo"></p>
     </p>
-    <p>
-      <button onclick = "alert('Hello')">Click me.</button>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
