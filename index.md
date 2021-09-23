@@ -1,6 +1,5 @@
 # qingfengg.github.com
 <html>
-<script src="script.js"></script>
 <style>
 a{color:blue;}
 a:hover{color:red;}
@@ -22,11 +21,12 @@ body
 .forth{position: relative; right:420px; bottom:140px}
   </style>
   <head>
-    <em class="Title">My porfolio - CISC275</em>  
+    <script src="script.js"></script>
+      <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
     <p> 
-      Name - <em class="BLUE"> <script>Me.name</script></em>
+      Name - <em class="BLUE">Me.name</em>
     </p>
     <p>
       Student ID: <em class="YELLOW">702519749</em>
