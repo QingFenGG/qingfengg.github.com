@@ -50,7 +50,6 @@ body
       <img src="change.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/changelog.html" > <strong>Change Log</strong> </a>
   </p>
-
   <p class="forth">
       <img src="future.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
