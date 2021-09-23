@@ -20,7 +20,7 @@ body
 .Title{
   color:crimson;
   font-size:200%}
-.second{ position: relative; right: 420px; bottom:450px}
+.second{ position: relative; right: 420px; bottom:400px}
 .third{position: relative; bottom:400px; right:420px}
 .forth{position: relative; right:420px; bottom:350px}
 .Expe{color: black;font-size:130%}
@@ -42,6 +42,11 @@ body
       <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
       <li>Life experience</li>
     </ul>
+    <p>
+      <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
+      Click me to display Date and Time.</button>
+      <p id="demo"></p>
+    </p>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
