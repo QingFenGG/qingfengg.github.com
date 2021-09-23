@@ -29,9 +29,6 @@ body
       <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
-    <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
-    Click me to display Date and Time.</button>
-    <p id="demo"></p>
     <dl> 
       <dt>Name</dt> 
       <dd><em class="BLUE">Yuxing Wei</em></dd>
@@ -45,6 +42,11 @@ body
       <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
       <li>Life experience</li>
     </ul>
+    <p>    
+    <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button>
+    <p id="demo"></p>
+    </p>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
