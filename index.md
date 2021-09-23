@@ -29,6 +29,9 @@ body
       <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
+    <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
+    Click me to display Date and Time.</button>
+    <p id="demo"></p>
     <dl> 
       <dt>Name</dt> 
       <dd><em class="BLUE">Yuxing Wei</em></dd>
