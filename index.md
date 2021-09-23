@@ -28,15 +28,13 @@ body
       <em class="Title">My porfolio - CISC275</em>  
   </head>
   <body>  
-    <p> 
-      Name - <em class="BLUE">Yuxing Wei</em>
-    </p>
-    <p>
-      Student ID: <em class="YELLOW">702519749</em>
-    </p>
-    <p>
-      Email address: <em class="YELLOW">qingfeng@udel.edu</em>
-    </p>
+    <dl> 
+      <dt>Name</dt> 
+      <dd><em class="BLUE">Yuxing Wei</em></dd>
+      <dt>Student ID</dt> 
+      <dd><em class="YELLOW">702519749</em></dd>
+      <dt>Email address</dt> 
+      <dd><em class="YELLOW">qingfeng@udel.edu</em></dd>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
@@ -51,9 +49,9 @@ body
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
     <p><strong>Experience</strong></p>
-      <ul>
-        <li>Study experience</li>
-        <li>Life experience</li>
-      </ul>
+    <ul>
+      <li>Study experience</li>
+      <li>Life experience</li>
+    </ul>
   </body>
 </html>
