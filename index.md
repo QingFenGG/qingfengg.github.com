@@ -20,9 +20,9 @@ body
 .Title{
   color:crimson;
   font-size:200%}
-.second{ position: relative; right: 420px; bottom:300px}
-.third{position: relative; bottom:250px; right:420px}
-.forth{position: relative; right:420px; bottom:200px}
+.second{ position: relative; right: 420px; bottom:350px}
+.third{position: relative; bottom:300px; right:420px}
+.forth{position: relative; right:420px; bottom:250px}
 .Expe{color: black;font-size:130%}
   </style>
   <head>
