@@ -47,6 +47,8 @@ body
     Click me to display Date and Time.</button>
     <p id="demo"></p>
     </p>
+    <p>
+      <button onclick = "alert('Hello')">Click me.</button>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
