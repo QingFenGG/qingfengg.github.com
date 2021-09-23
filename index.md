@@ -1,5 +1,9 @@
 # qingfengg.github.com
 <html>
+<script>
+  var word = " Welcome to my Portfolio";
+  alert(word);
+</script>
 <style>
 a{color:blue;}
 a:hover{color:red;}
