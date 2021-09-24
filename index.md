@@ -54,8 +54,8 @@ body
       <img src="future.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
-  </body>
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
   Click me to display Date and Time.</button>
   <p id="demo"></p>
+  </body>
 </html>
