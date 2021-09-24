@@ -55,8 +55,7 @@ body
   <em class="Expe"><em class="poEx">Experience</em></em>
   <ul><em class="poEx">
     <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
-    <li>Life experience</li>
-  </ul></em>
+    <li>Life experience</li></em>
   <em class="demo">
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
   Click me to display Date and Time.</button>
