@@ -52,8 +52,8 @@ body
       <img src="future.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
-  <p><em class="Expe"><em class="poEx">Experience</em></p>
-  <ul>
+  <em class="Expe"><em class="poEx">Experience</em></em>
+  <ul><em class="poEx">
     <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
     <li>Life experience</li>
   </ul></em>
@@ -61,4 +61,3 @@ body
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
   Click me to display Date and Time.</button>
   <p id="demo"></p></em>
-</html>
