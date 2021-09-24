@@ -25,6 +25,7 @@ body
 .forth{position: relative; right:420px; bottom:350px}
 .Expe{color: black;font-size:130%}
 .demo{position:relative;bottom:280px}
+.poEx{position:relative;bottom:600px}
   </style>
   <head>
       <em class="Title">My porfolio - CISC275</em>  
@@ -38,11 +39,7 @@ body
       <dt>Email address</dt> 
       <dd><em class="YELLOW">qingfeng@udel.edu</em></dd>
     </dl>
-    <p><em class="Expe">Experience</em></p>
-    <ul>
-      <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
-      <li>Life experience</li>
-    </ul>
+    </body>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
@@ -55,9 +52,13 @@ body
       <img src="future.jpg" width="300" height="200">
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
+  <p><em class="Expe"><em class="poEx">Experience</em></em></p>
+  <ul>
+    <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
+    <li>Life experience</li>
+  </ul>
   <em class="demo">
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
   Click me to display Date and Time.</button>
   <p id="demo"></p></em>
-  </body>
 </html>
