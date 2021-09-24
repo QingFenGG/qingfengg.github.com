@@ -42,11 +42,6 @@ body
       <li><a href="https://qingfengg.github.io/studyexpe.md">Study experience</a></li>
       <li>Life experience</li>
     </ul>
-    <p>
-      <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
-      Click me to display Date and Time.</button>
-      <p id="demo"></p>
-    </p>
     <p class="second">
       <img src="central-repository-scaled.jpg" width="300" height="200" >
       <br><a href="https://github.com/QingFenGG/qingfengg.github.com" > <strong>My Github Repository</strong> </a>
@@ -60,4 +55,7 @@ body
       <br><a href="https://qingfengg.github.io/TODO.html" > <strong>TODO</strong> </a>
   </p>
   </body>
+  <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
+  Click me to display Date and Time.</button>
+  <p id="demo"></p>
 </html>
