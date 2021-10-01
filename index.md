@@ -35,8 +35,6 @@ body
     <dl> 
       <dt>Name</dt> 
       <dd><em class="BLUE">Yuxing Wei</em></dd>
-      <dt>Student ID</dt> 
-      <dd><em class="YELLOW">702519749</em></dd>
       <dt>Email address</dt> 
       <dd><em class="YELLOW">qingfeng@udel.edu</em></dd>
     </dl>
@@ -59,7 +57,7 @@ body
     <li>Life experience</li></em>
   </ul>
   <em class="React">
-    <a href="https://qingfengg.github.io/myapp/">React App</a>
+    <em class="YELLOW"><a href="https://qingfengg.github.io/myapp/">React App</a></em>
   </em>
   <em class="demo">
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
