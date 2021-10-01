@@ -54,7 +54,7 @@ body
   <em class="Expe"><em class="poEx">Experience</em></em>
   <ul><em class="poEx">
     <li><a href="https://qingfengg.github.io/studyexpe.html">Study experience</a></li>
-    <li>Life experience</li></em>
+    <li><a href="https://qingfengg.github.io/lifeexpe.html">Life experience</a></li></em>
   </ul>
   <em class="React">
     <em class="YELLOW"><a href="https://qingfengg.github.io/myapp/">React App</a></em>
