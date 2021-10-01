@@ -14,7 +14,7 @@
         <script>
         function creatTab(){
             rows=document.getElementById('rows').value
-             cols=document.getElementById('cols').value
+            cols=document.getElementById('cols').value
             div1=document.getElementById('div1');
             var ta=div1.getElementsByTagName('table')[0]
             if (ta) {ta.parentNode.removeChild(ta)}
@@ -25,12 +25,10 @@
                 tab.insertRow(i)
                 for(var j=0;j<cols;j++){
                     tab.rows[i].insertCell(j).innerHTML=i+''+j;
-                    tab.rows[i].cells[j].style.background='green'
                 }
              }
     
-            document.getElementById("div1").appendChild(tab)
-    
+            document.getElementById("div1").appendChild(tab)    
         }
         </script>
     </body>
