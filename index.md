@@ -26,6 +26,7 @@ body
 .Expe{color: black;font-size:130%}
 .demo{position:relative;bottom:280px}
 .poEx{position:relative;bottom:600px}
+.React{position:relative;bottom:800px}
   </style>
   <head>
       <em class="Title">My porfolio - CISC275</em>  
@@ -57,7 +58,9 @@ body
     <li><a href="https://qingfengg.github.io/studyexpe.html">Study experience</a></li>
     <li>Life experience</li></em>
   </ul>
-  <a href="https://qingfengg.github.io/myapp/">React App</a>
+  <em class="React">
+    <a href="https://qingfengg.github.io/myapp/">React App</a>
+  </em>
   <em class="demo">
   <button type="button" onclick="document.getElementById('demo').innerHTML = Date()">
   Click me to display Date and Time.</button>
