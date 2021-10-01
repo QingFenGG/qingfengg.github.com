@@ -1,7 +1,7 @@
 <html>
     <head>
          <meta charset="UTF-8">
-         <title>iPresentation document</title>
+         <title>Presentation document</title>
          <style type="text/css">
          </style>
      </head>
@@ -32,4 +32,46 @@
         }
         </script>
     </body>
+    <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+</head>
+<script type="text/javascript">
+   function init(){
+      var len = 14;
+   	  var ctn = document.getElementById("content");
+	  var content = ctn.innerHTML;
+	
+	  var span = document.createElement("span");
+	  var a = document.createElement("a");
+	  span.innerHTML = content.substring(0,len);
+	  a.innerHTML = content.length>len?"<img src='d:\\right.jpeg' width='15' height='15' />Unfold":"";  //设置a的显示
+	  a.href = "javascript:void(0)";
+	  a.onclick = function(){
+	      if(a.innerHTML.indexOf("Unfold")>0){
+	      	a.innerHTML = "<img src='d:\\up.jpeg' width='15' height='15' />stop";
+		  	span.innerHTML = content;
+		  }else{
+		      a.innerHTML = "<img src='d:\\right.jpeg' width='15' height='15' />unfold";
+		  	  span.innerHTML = content.substring(0,len);
+		  }
+	  }
+	  ctn.innerHTML = "";
+	  ctn.appendChild(span);
+	  ctn.appendChild(a);
+	  
+   }
+   
+    </script>
+    <body οnlοad="init()">
+    <div id="content">
+        那片笑声让我想起我的那些花儿</br>
+	    在我生命每个角落静静为我开着</br>
+	    我曾以为我会永远守在他身旁</br>
+	    今天我们已经离去在人海茫茫
+    </div>
+    </body>
+    </html>
+
     </html>
